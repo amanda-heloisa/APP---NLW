@@ -34,6 +34,7 @@ Apresentar os dados
 
 # Operadores
 
+
 - [x] Operadores de atribuição de valor: =
 - [x] Operador de contatenação: +
 
@@ -54,3 +55,11 @@ Apresentar os dados
 - [x] criar, passar argumento
 - [x] excutar
 - [x] arrow function / named function
+
+
+# Anotações
+- Atenção na digitação, cada letra importa, e letras erradas causam erros de código;
+- let: muda;
+- const: não muda seu valor e consequentemente e dá erro de código;
+- Dentro da chave: variável local;
+- Fora da chave: variável global;
