@@ -57,7 +57,10 @@ Apresentar os dados
 - [x] arrow function / named function
 
 # Estrutura de reptição
-- [x] While
+- [x] while
+
+# Condicionais 
+- [x] switch
 
 # Anotações
 - Atenção na digitação, cada letra importa, e letras erradas causam erros de código;
