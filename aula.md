@@ -56,6 +56,8 @@ Apresentar os dados
 - [x] excutar
 - [x] arrow function / named function
 
+# Estrutura de reptição
+- [x] While
 
 # Anotações
 - Atenção na digitação, cada letra importa, e letras erradas causam erros de código;
