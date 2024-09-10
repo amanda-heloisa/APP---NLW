@@ -63,3 +63,38 @@ Apresentar os dados
 - const: não muda seu valor e consequentemente e dá erro de código;
 - Dentro da chave: variável local;
 - Fora da chave: variável global;
+- .(pontinho) para acessar algo, uma propriedade;
+
+# Teste de código
+## 01: 
+// Hello world - Olá, Mundo!
+const mensagem = "olá eu"
+
+{
+    const mensagem = "olá, mundo!" 
+    console.log(mensagem);
+}
+console.log(mensagem);
+
+## 02:
+// arrays, objetos
+let metas = ["amanda", "alô"]
+console.log(metas[1] + ", " + metas[0])
+
+let meta = {
+    value: 'ler um livro por mês',
+    address: 2,
+    checked: false,
+    log: (info) => {
+        console.log(info)
+    }
+}
+
+meta.value = "não é mais ler um livro"
+meta.log(meta.value)
+
+## 03:
+//function // arrow function (arrow = Seta)
+const criarMeta = () => {}
+
+function criarMeta() {}
