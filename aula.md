@@ -42,13 +42,14 @@ Apresentar os dados
     * !=(diferente)
     * < menor > maior
     * <= menor igual >= maior igual
+-[x] Spread operator: ...
 
 ## Estruturas de dados:
 
 ### Arrays: 
 
 - [x] Uma lista que contém qualquer tipo de dado 
-- [x] Métodos de array: push, find, forEch
+- [x] Métodos de array: push, [find, forEch, filter] : HOF (Higher order functions) 
 
 ### Objetos:
 
