@@ -4,4 +4,4 @@
     -[x] Metas Abertas
 -[x] Marcar/Desmarcar metas Realizadas
 -[x] Remover metas
--Sistema de mensagem
+-[x] Sistema de mensagem
