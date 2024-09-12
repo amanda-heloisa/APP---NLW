@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "value": "Treinar todos os dias",
+    "checked": false
+  },
+  {
+    "value": "Beber 3L de água todos os dias",
+    "checked": false
+  },
+  {
+    "value": "Estudar Todos os dias",
+    "checked": false
+  },
+  {
+    "value": "Ler 20 minutos todos os dias",
+    "checked": false
+  }
+]
